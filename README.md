@@ -136,21 +136,3 @@ You can customize the appearance by editing button classes, table layouts, or co
 
 * Detailed summary page
 <img width="1670" height="954" alt="image" src="https://github.com/user-attachments/assets/294d2720-d78f-40ba-a078-72bdb7431738" />
-
-
----
-
-📜 License
-
-This project is licensed under the **MIT License** – feel free to use, modify, and distribute it.
-
----
-
-## 👨‍💻 Author
-
-**Ruan Federle**
-📧 [[ruanfederle@hotmail.com](mailto:ruanfederle@hotmail.com)]
-🔗 [GitHub Profile](https://github.com/ruanfederle)
-
----
-
